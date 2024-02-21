@@ -8,3 +8,6 @@ Embedded widget to compare images using a slider
 - left: image that goes to the left :p
 - right: image that goes to the... yes to the right.
 
+
+![TwinSpace preview](./previews/preview-image.png) 
+
