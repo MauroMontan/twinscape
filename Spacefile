@@ -1,0 +1,11 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+micros:
+  - name: static-app
+    src: ./
+    engine: vue
+    primary: true
+    public: true
+    commands:
+      - npm run build
+    serve: dist
