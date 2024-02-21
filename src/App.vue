@@ -79,15 +79,11 @@ main {
   height: 100%;
   align-items: start;
   justify-content: start;
-  border-radius: 1rem;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   position: relative;
   overflow: hidden;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  border: solid 3px lightgray;
-
 }
 
 img {
